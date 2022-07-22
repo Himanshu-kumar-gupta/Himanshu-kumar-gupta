@@ -21,4 +21,5 @@ Here are some ideas to get you started:
         
 ## About Me
           
-- Final year Student at University of Petroleum and Energy Studies pursuing my degree of B.Tech(Hons.) in Computer Science with specializtion in DevOps.
+- Final year Student at **University of Petroleum and Energy Studies** pursuing my degree of **B.Tech(Hons.) in Computer Science** with specializtion in DevOps.
+- 

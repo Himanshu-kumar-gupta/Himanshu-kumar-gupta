@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align = 'center'><b>Passionate Software Developer bringing in solid Technical skills with keen interest in field of DevOps, Android Development & Linux</b></p>
+<p align = 'center'><b>Passionate Software Developer with keen interest in field of DevOps, Android Development & Linux</b></p>
         
         
 ## About Me

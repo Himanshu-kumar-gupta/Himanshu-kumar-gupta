@@ -22,4 +22,10 @@ Here are some ideas to get you started:
 ## About Me
           
 - Final year Student at **University of Petroleum and Energy Studies** pursuing my degree of **B.Tech(Hons.) in Computer Science** with specializtion in DevOps.
-- 
+- DevOps Intern at Xebia.
+- Android Developer intern at Vasukam.
+- Currently learning💡 Android Development with Kotlin.
+- Skilled in Java(🌟🌟🌟🌟🌟), Kotlin(🌟🌟🌟🌟🌟), Python(🌟🌟🌟) & C/C++(🌟🌟) programming Languages.
+- A nature🌿 lover : Planted🌱 10+ Trees as a Volunteer for <a href = "https://greenbhumi.com/">GreenBhumi</a>.
+
+

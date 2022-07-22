@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 - A nature🌿 lover : Planted🌱 10+ Trees as a Volunteer for <a href = "https://greenbhumi.com/">GreenBhumi</a>.
 
 
+### My Tech Stack:
+
+![image](https://img.shields.io/badge/Linux-F9AB00?style=for-the-badge&logo=Linux&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/DevOps-14354C?style=for-the-badge&logo=devops&logoColor=white)&nbsp;&nbsp;

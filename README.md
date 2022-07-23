@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Jenkins-E34F26?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/docker-342B029.svg?&style=for-the-badge&logo=docker&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Kubernetes-%2300f.svg?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/Linux-F9AB00?style=for-the-badge&logo=Linux&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Azure-342B029.svg?&style=for-the-badge&logo=azure&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Star_uml-14354C?style=for-the-badge&logo=staruml&logoColor=white)&nbsp;&nbsp;
 

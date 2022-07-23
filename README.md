@@ -2,7 +2,9 @@
 <h1 align="center">Himanshu Kumar Gupta Here!! </h1>
 
 <p align = 'center'><b>Passionate Software Developer with keen interest in field of DevOps, Android Development & Linux</b></p>
-            
+
+<p align = 'center'> <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
 ## About Me
           
 - Final year Student at **University of Petroleum and Energy Studies** pursuing my degree of **B.Tech(Hons.) in Computer Science** with specializtion in DevOps.
@@ -11,11 +13,11 @@
 - Currently learning💡 Android Development with Kotlin.
 - Skilled in Java(🌟🌟🌟🌟🌟), Kotlin(🌟🌟🌟🌟🌟), Python(🌟🌟🌟) & C/C++(🌟🌟) programming Languages.
 - A nature🌿 lover : Planted🌱 10+ Trees as a Volunteer for <a href = "https://greenbhumi.com/">GreenBhumi</a>.
- <br/>
+
  
  ### Know more about me on my  <a href = "https://himanshu-kumar-gupta.github.io/AboutMe/">Website</a>
  
- <br/>
+ <p align = 'center'> <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
  
 ## My Tech Stack 🛠
 
@@ -38,6 +40,7 @@
 ![image](https://img.shields.io/badge/Azure-342B029.svg?&style=for-the-badge&logo=azure&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Star_uml-14354C?style=for-the-badge&logo=staruml&logoColor=white)&nbsp;&nbsp;
 
+<p align = 'center'> <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## My Github Stats 📊 
      
@@ -57,8 +60,8 @@
   </p>
   <br/>
 <b>Note:</b> Top languages is only a metric of the languages of my public code and doesn't reflect experience or skill level.
- <br/><br/>
 
+<p align = 'center'> <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## My Profiles 👤
 
@@ -68,7 +71,8 @@
 <a href = "https://www.hackerrank.com/himanshuKgupta?hr_r=1"><img width="50" height="50" src="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/HackerRank__17b693/HackerRank_logo.png__83726.png"/></a>        
 </p>
         
-        
+<p align = 'center'> <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p> 
+ 
 ## Views ❤
 
 <!-- ![VisitorCount](https://profile-counter.glitch.me/{Himanshu-kumar-gupta}/count.svg) -->

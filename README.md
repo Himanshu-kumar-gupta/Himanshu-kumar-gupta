@@ -69,4 +69,15 @@ Here are some ideas to get you started:
   </p>
   <br/>
 <b>Note:</b> Top languages is only a metric of the languages of my public code and doesn't reflect experience or skill level.
- <br/>
+ <br/><br/>
+
+## My Profiles 👤
+
+<p align="left">       
+<a href = "https://www.linkedin.com/in/himanshu-kumar-gupta/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://leetcode.com/HimanshuKumarGupta135/"><img width="150" height="42" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png"/></a>     
+<a href = "https://www.hackerrank.com/himanshuKgupta?hr_r=1"><img width="50" height="50" src="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/HackerRank__17b693/HackerRank_logo.png__83726.png"/></a>        
+</p>
+        
+        
+          

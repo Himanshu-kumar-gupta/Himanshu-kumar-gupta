@@ -61,9 +61,13 @@ Here are some ideas to get you started:
 </p>
         
   <br/>
+  <p align="center">
   <a href="https://github.com/Himanshu-kumar-gupta/github-readme-stats"><img alt="Himanshu-kumar-gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Himanshu-kumar-gupta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
  /></a>
-  <a href="https://github.com/Himanshu-kumar-gupta/github-readme-stats"><img alt="Himanshu-kumar-gupta Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-kumar-gupta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>    
+ </p>
+ <p align="center">
+  <a href="https://github.com/Himanshu-kumar-gupta/github-readme-stats"><img alt="Himanshu-kumar-gupta Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-kumar-gupta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </p>
   <br/>
 <b>Note:</b> Top languages is only a metric of the languages of my public code and doesn't reflect experience or skill level.
  <br/>

@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 - Currently learning💡 Android Development with Kotlin.
 - Skilled in Java(🌟🌟🌟🌟🌟), Kotlin(🌟🌟🌟🌟🌟), Python(🌟🌟🌟) & C/C++(🌟🌟) programming Languages.
 - A nature🌿 lover : Planted🌱 10+ Trees as a Volunteer for <a href = "https://greenbhumi.com/">GreenBhumi</a>.
-
-
-### My Tech Stack:
+ 
+ 
+## My Tech Stack 🛠
 
 ![image](https://img.shields.io/badge/DevOps-14354C?style=for-the-badge&logo=devops&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Android_Studio-342B029.svg?&style=for-the-badge&logo=android&logoColor=white)&nbsp;&nbsp;
@@ -51,3 +51,19 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Azure-342B029.svg?&style=for-the-badge&logo=azure&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Star_uml-14354C?style=for-the-badge&logo=staruml&logoColor=white)&nbsp;&nbsp;
 
+
+## My Github Stats 📊 
+     
+  <p align="center">
+    <a href="https://github.com/Himanshu-kumar-gupta/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Himanshu-kumar-gupta' streak " src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-kumar-gupta&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>        
+    </a>        
+</p>
+        
+  <br/>
+  <a href="https://github.com/Himanshu-kumar-gupta/github-readme-stats"><img alt="Himanshu-kumar-gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Himanshu-kumar-gupta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
+ /></a>
+  <a href="https://github.com/Himanshu-kumar-gupta/github-readme-stats"><img alt="Himanshu-kumar-gupta Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-kumar-gupta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>    
+  <br/>
+<b>Note:</b> Top languages is only a metric of the languages of my public code and doesn't reflect experience or skill level.
+ <br/>

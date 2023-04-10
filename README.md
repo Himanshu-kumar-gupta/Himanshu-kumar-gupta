@@ -40,6 +40,7 @@
 ![image](https://img.shields.io/badge/Kubernetes-%2300f.svg?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Azure-342B029.svg?&style=for-the-badge&logo=azure&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Star_uml-14354C?style=for-the-badge&logo=staruml&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Perl-F05032?style=for-the-badge&logo=Perl&logoColor=white)&nbsp;&nbsp;
 
 <p align = 'center'> <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
